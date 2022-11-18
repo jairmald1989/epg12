@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CARTOON NETWORK">
+    <display-name lang="es">CARTOON NETWORK</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="DISNEY CHANNEL">
+    <display-name lang="es">DISNEY CHANNEL</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="DISNEY JUNIOR">
+    <display-name lang="es">DISNEY JUNIOR</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="NICKELODEON">
+    <display-name lang="es">NICKELODEON</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="BABY TV">
+    <display-name lang="es">BABY TV</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="NICK JR">
+    <display-name lang="es">NICK JR</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="BOOMERANG">
+    <display-name lang="es">BOOMERANG</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="TOONCAST">
+    <display-name lang="es">TOONCAST</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="DISCOVERY CHANNEL">
+    <display-name lang="es">DISCOVERY CHANNEL</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="DISCOVERY SCIENCE">
+    <display-name lang="es">DISCOVERY SCIENCE</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="es">TLC</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="DISCOVERY CIVILIZATION">
+    <display-name lang="es">DISCOVERY CIVILIZATION</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="ANIMAL PLANET">
+    <display-name lang="es">ANIMAL PLANET</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="HISTORY CHANNEL">
+    <display-name lang="es">HISTORY CHANNEL</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/46ddf8dfb4cfd185bc98ebfbb0eb77df.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="H2">
+    <display-name lang="es">H2</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/6fc1df75e9a2e16bc6b1315f1967c5d5.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="DISCOVERY TURBO">
+    <display-name lang="es">DISCOVERY TURBO</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="NATIONAL GEOGRAPHIC">
+    <display-name lang="es">NATIONAL GEOGRAPHIC</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="TV AGRO">
+    <display-name lang="es">TV AGRO</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/aa6e0fc72ff5c52e9b1338f308668acd.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="DISCOVERY HOME &amp; HEALTH">
+    <display-name lang="es">DISCOVERY HOME &amp; HEALTH</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="EL GOURMET">
+    <display-name lang="es">EL GOURMET</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/3d587aab6489d44cb6b459a58dc0f30c.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="MAS CHIC">
+    <display-name lang="es">MAS CHIC</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="GLITZ">
+    <display-name lang="es">GLITZ</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="E! ENTERTAINMENT">
+    <display-name lang="es">E! ENTERTAINMENT</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="LIFETIME">
+    <display-name lang="es">LIFETIME</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="TRU TV">
+    <display-name lang="es">TRU TV</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="CANAL DE LAS ESTRELLAS">
+    <display-name lang="es">CANAL DE LAS ESTRELLAS</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="TL NOVELAS">
+    <display-name lang="es">TL NOVELAS</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="AZMUNDO">
+    <display-name lang="es">AZMUNDO</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="RCN TELENOVELAS">
+    <display-name lang="es">RCN TELENOVELAS</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="TELEMUNDO">
+    <display-name lang="es">TELEMUNDO</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="PASIONES">
+    <display-name lang="es">PASIONES</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="CNN EN ESPANOL">
+    <display-name lang="es">CNN EN ESPANOL</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="NTN 24">
+    <display-name lang="es">NTN 24</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="DW AMERICA">
+    <display-name lang="es">DW AMERICA</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="ANTENA 3">
+    <display-name lang="es">ANTENA 3</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="CARACOL INTERNACIONAL">
+    <display-name lang="es">CARACOL INTERNACIONAL</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="es">ESPN</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="ESPN 2">
+    <display-name lang="es">ESPN 2</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="ESPN3">
+    <display-name lang="es">ESPN3</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="FOX SPORTS">
+    <display-name lang="es">FOX SPORTS</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="FOX SPORTS 2">
+    <display-name lang="es">FOX SPORTS 2</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="FOX SPORTS 3">
+    <display-name lang="es">FOX SPORTS 3</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="WARNER CHANNEL">
+    <display-name lang="es">WARNER CHANNEL</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="es">AXN</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="SONY">
+    <display-name lang="es">SONY</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="UNIVERSAL CHANNEL">
+    <display-name lang="es">UNIVERSAL CHANNEL</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="es">FX</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="FOX LIFE">
+    <display-name lang="es">FOX LIFE</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="A&amp;E">
+    <display-name lang="es">A&amp;E</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="TNT SERIES">
+    <display-name lang="es">TNT SERIES</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="TBS">
+    <display-name lang="es">TBS</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="COMEDY CENTRAL">
+    <display-name lang="es">COMEDY CENTRAL</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="TNT">
+    <display-name lang="es">TNT</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="STUDIO UNIVERSAL">
+    <display-name lang="es">STUDIO UNIVERSAL</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="SPACE">
+    <display-name lang="es">SPACE</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="ISAT">
+    <display-name lang="es">ISAT</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="es">AMC</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="CINEMAX OESTE">
+    <display-name lang="es">CINEMAX OESTE</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="GOLDEN">
+    <display-name lang="es">GOLDEN</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="MULTIPREMIER">
+    <display-name lang="es">MULTIPREMIER</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="CINE LATINO">
+    <display-name lang="es">CINE LATINO</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="CINECANAL OESTE">
+    <display-name lang="es">CINECANAL OESTE</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="TCM">
+    <display-name lang="es">TCM</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="PARAMOUNT">
+    <display-name lang="es">PARAMOUNT</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="HBO ESTE">
+    <display-name lang="es">HBO ESTE</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="HBO PLUS ESTE">
+    <display-name lang="es">HBO PLUS ESTE</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="HBO FAMILY ESTE">
+    <display-name lang="es">HBO FAMILY ESTE</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="HBO SIGNATURE">
+    <display-name lang="es">HBO SIGNATURE</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="HBO PLUS OESTE">
+    <display-name lang="es">HBO PLUS OESTE</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="EWTN">
+    <display-name lang="es">EWTN</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="EL SEMBRADOR">
+    <display-name lang="es">EL SEMBRADOR</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="TELEAMIGA">
+    <display-name lang="es">TELEAMIGA</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="ENLACE">
+    <display-name lang="es">ENLACE</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="CARACOL HD">
+    <display-name lang="es">CARACOL HD</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <programme start="20221118110000 +0000" stop="20221118170000 +0000" channel="HISTORY CHANNEL">
+    <title lang="es">History Channel</title>
+  </programme>
+  <programme start="20221118170000 +0000" stop="20221118230000 +0000" channel="HISTORY CHANNEL">
+    <title lang="es">History Channel</title>
+  </programme>
+  <programme start="20221118230000 +0000" stop="20221119050000 +0000" channel="HISTORY CHANNEL">
+    <title lang="es">History Channel</title>
+  </programme>
+  <programme start="20221118110000 +0000" stop="20221118170000 +0000" channel="H2">
+    <title lang="es">History 2</title>
+  </programme>
+  <programme start="20221118170000 +0000" stop="20221118230000 +0000" channel="H2">
+    <title lang="es">History 2</title>
+  </programme>
+  <programme start="20221118230000 +0000" stop="20221119050000 +0000" channel="H2">
+    <title lang="es">History 2</title>
+  </programme>
+  <programme start="20221118110000 +0000" stop="20221118170000 +0000" channel="TV AGRO">
+    <title lang="es">TV Agro</title>
+  </programme>
+  <programme start="20221118170000 +0000" stop="20221118230000 +0000" channel="TV AGRO">
+    <title lang="es">TV Agro</title>
+  </programme>
+  <programme start="20221118230000 +0000" stop="20221119050000 +0000" channel="TV AGRO">
+    <title lang="es">TV Agro</title>
+  </programme>
+  <programme start="20221118110000 +0000" stop="20221118170000 +0000" channel="EL GOURMET">
+    <title lang="es">El Gourmet</title>
+  </programme>
+  <programme start="20221118170000 +0000" stop="20221118230000 +0000" channel="EL GOURMET">
+    <title lang="es">El Gourmet</title>
+  </programme>
+  <programme start="20221118230000 +0000" stop="20221119050000 +0000" channel="EL GOURMET">
+    <title lang="es">El Gourmet</title>
+  </programme>
+</tv>
